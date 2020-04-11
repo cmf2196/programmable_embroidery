@@ -1,4 +1,4 @@
-# programmable_embroidery
+# Title: programmable_embroidery
 
 
 Authors: Connor Finn, Drew Deperro <br> 
